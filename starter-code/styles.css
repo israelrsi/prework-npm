@@ -1,0 +1,73 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+}
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+.top-links {
+  margin: 0 20px 0 0; 
+}
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.first-line{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.logo{
+  width: 140px;
+}
+header li{
+  display: inline-block;
+}
+.logo-bear{
+  width: 30px;
+}
+.signup-bear{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.signup-bear span, a{
+  color: white;
+  text-decoration: none;
+}
+form{
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+} 
+input{
+  width: 90%;
+  margin-right: 10px;
+  height: 30px;
+  font-size: 100%;
+  background-color: rgb(31, 82, 111);
+  color:gray;
+}
+.section1{
+  color: white;
+  position: relative;
+  left: 200px;
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+header{
+  height: 400px;
+}
